@@ -45,3 +45,5 @@ Enabled placement coordinators to identify underperforming areas quickly.
 Helped management assess training effectiveness and realign strategies.
 Improved communication between departments through unified reporting.
 
+Link: https://github.com/vaishnavithorat20/End-To-End-Project-Student-Progression-Data-set-/blob/main/Screenshot%20Project.png
+
